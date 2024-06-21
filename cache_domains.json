@@ -129,13 +129,6 @@
 			]
 		},
 		{
-			"name": "ubuntu",
-			"description": "Ubuntu packages",
-			"domain_files": [
-				"ubuntu.txt"
-			]
-		},
-		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": [
